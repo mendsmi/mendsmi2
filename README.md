@@ -2,7 +2,7 @@
 BOAS VINDAS AO MEU PERFIL
 
 -Meu nome é Michelle Mendes Almeida
--Estou estudando na Alura
+-Estou estudando na ALURA
 -EStou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
